@@ -3,5 +3,6 @@
 ## 2024-12-02
 
 Resources :
-- <refactoring.guru>
-- example repo : <https://github.com/dgkg/banana>
+- https://refactoring.guru
+- example repo : https://github.com/dgkg/banana
+- search packages : https://pkg.go.dev/
